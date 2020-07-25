@@ -1,0 +1,23 @@
+h1 {
+  /* change red to your title color */
+  color: red;
+}
+p {
+  /* change green to your paragraph color */
+  color: green;
+}
+.header {
+  /* change blue to your nav bar color */
+  background-color: blue;
+  padding: 20px;
+}
+
+/* button manager */
+
+a {
+  text-decoration: none;
+  color: green;
+}
+a:hover {
+  color: orange;
+}
